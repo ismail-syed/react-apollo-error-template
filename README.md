@@ -19,3 +19,8 @@ To make changes in the GraphQL schema make sure to look at the `./src/graphql` f
 3. Start the development server with `npm start`.
 4. Make the changes that will reproduce this error locally.
 5. When ready, push your changes back to GitHub and let the `apollo-client` team know where they can be found.
+
+
+# Issue
+
+https://github.com/apollographql/apollo-client/issues/5347
